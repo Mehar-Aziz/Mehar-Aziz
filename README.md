@@ -7,10 +7,8 @@
   - [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mehar-aziz-b588a0281/)
   - [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:meharaziz.1614@gmail.com)
   - [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mehar._.aziz)
-- 😄 Pronouns: She/Her
 
 ## 🛠️ Tools and Technologies
-
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
