@@ -1,7 +1,7 @@
 # 👋 Hi, I’m [Mehar Aziz](https://github.com/Mehar-Aziz)
 
 - 👀 I’m interested in website development, AI/ML, databases, and data analysis.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Machine Learning.
 - 💞️ I’m looking to collaborate on exciting projects related to website development, AI/ML, or data analysis.
 - 📫 How to reach me: 
   - [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mehar-aziz-b588a0281/)
